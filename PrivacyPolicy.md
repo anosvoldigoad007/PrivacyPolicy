@@ -34,6 +34,7 @@ Yes! You have full control over the data collected by the extension:
 View Data : You can view the stored load times and associated URLs directly in the extension's popup.
 Clear Data : Use the "Clear" button in the Previous Load Times section to delete all stored data for the current website.
 Delete Data Permanently : Uninstalling the extension will permanently remove all locally stored data.
+
 6. Security Measures
 We take reasonable steps to protect your data:
 
